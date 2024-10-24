@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD93FCF-E9A2-48AF-B0DA-17A386B52A69}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp1\\consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD93FCF-E9A2-48AF-B0DA-17A386B52A69}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D523819E-5D94-424C-BB1B-DD73187CB5CC}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp1\\consoleapp2\\enums\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D523819E-5D94-424C-BB1B-DD73187CB5CC}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\enums\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD93FCF-E9A2-48AF-B0DA-17A386B52A69}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp1\\consoleapp1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD93FCF-E9A2-48AF-B0DA-17A386B52A69}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD93FCF-E9A2-48AF-B0DA-17A386B52A69}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD93FCF-E9A2-48AF-B0DA-17A386B52A69}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D523819E-5D94-424C-BB1B-DD73187CB5CC}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp1\\consoleapp2\\exception\\pricemustbegreaterthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D523819E-5D94-424C-BB1B-DD73187CB5CC}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\exception\\pricemustbegreaterthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp2\\enums\\Type.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\enums\\Type.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp2\\enums\\Type.cs",
+              "RelativeToolTip": "ConsoleApp2\\enums\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:58:26.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Person.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Person.cs",
+              "RelativeToolTip": "ConsoleApp1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:31:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Store.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Store.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Store.cs",
+              "RelativeToolTip": "ConsoleApp1\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:47:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriceMustBeGreaterThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Exception\\PriceMustBeGreaterThanZeroException.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Exception\\PriceMustBeGreaterThanZeroException.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp2\\Exception\\PriceMustBeGreaterThanZeroException.cs",
+              "RelativeToolTip": "ConsoleApp2\\Exception\\PriceMustBeGreaterThanZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:35:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:30:51.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
